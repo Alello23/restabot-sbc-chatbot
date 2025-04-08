@@ -1,5 +1,5 @@
-## RestaBot
-
+# RestaBot
+![Mi proyecto](assets/Restabot.jpeg)
 Restabot is a chatbot that helps you choose the restaurant that best fits your current needs. It integrates with the Discord API to use its UI and with the Yelp API to gather updated information about the restaurants. 
 
 ### Instructions
